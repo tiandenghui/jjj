@@ -1,6 +1,6 @@
-eureka.server.ip.peer1: 172.16.0.26
-eureka.server.ip.peer2: 172.16.0.27
-eureka.server.ip.peer3: 172.16.0.43
+eureka.server.ip.peer1: 172.17.0.27
+eureka.server.ip.peer2: 172.17.0.27
+eureka.server.ip.peer3: 172.17.0.27
 
 peer1.port: 8762
 peer2.port: 8763
